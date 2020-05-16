@@ -1,5 +1,5 @@
 # catalogo-javascript
-Muestra un catalogo de plantas que recibe en un Array de objetos con la siguiente estructura:
+Muestra un catalogo de plantas que recibe en un Array **plantasList** de objetos con la siguiente estructura:
 
 const plantasList = [\
     {\
@@ -12,4 +12,4 @@ const plantasList = [\
     **type**: 'musgos' \
     },\
 \
-   ]\
+   ]
